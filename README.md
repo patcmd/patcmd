@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @patcmd
 - 👀 I’m interested in Systems 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- 🌱 I’m currently learning AI/CyberSecurity/Munki Management
 - 📫 How to reach me pmediana_1997@protonmail.com
 
 <!---
